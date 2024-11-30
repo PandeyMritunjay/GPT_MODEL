@@ -1,6 +1,7 @@
 # GPT_MODEL
 
 Link to the Google Colab - [GPT Model Google Colab](https://colab.research.google.com/drive/1Sem2Qwry8Bc4WgvW9Y9tsla_1NlI1NjX?usp=sharing)
+Note- To run model better, change the hardware accelerator form CPU to T4 GPU.
 
 ## Key Steps:
 - **Dataset Preparation**: Preprocess the dataset using a text file and load it with a custom `TextDataset` class. Already there, just used column of the data, as our custom dataset to train the Language model.
